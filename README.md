@@ -1,0 +1,2 @@
+# springframework_sample_app
+Simple repository to demonstrate SpringFramework capabilities
